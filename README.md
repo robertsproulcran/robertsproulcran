@@ -1,5 +1,31 @@
 ## Hi there 👋
 
+### My Languages, Tools & Skills
+I have:
+  - Python
+  - SQL
+  - Dataframes
+    - Pandas
+    - Matplotlib
+    - Numpy
+    - Seaborn
+  - Stats
+    - Scipy
+  - ML Modelling
+    - SciKitLearn
+    - Statsmodels
+  - Platforms
+    - Jupyter Notebook 
+    - Google Colab
+    - Git
+    - Github
+    - Visual Studio Code
+  - Other Languages
+    - HTML
+    - CSS
+    - Javascript
+    - C++ (Arduino)
+
 <!--
 **robertsproulcran/robertsproulcran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
