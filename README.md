@@ -25,15 +25,22 @@ I have:
     - Javascript
     - C++ (Arduino)
    
-| Platforms        | Packages   |
-| ---              | ---        |
-| Jupyter Notebook | Pandas     |
-| Google Colab     | Matplotlib |
-| Github           | Numpy      |
-| VS Code          | Seaborn    |
-| SSMS             |            |
+| Platforms        | Packages   | ML Modelling |
+| :---             | :---       | :---         |
+| Jupyter Notebook | Pandas     | SciKitLearn  |
+| Google Colab     | Matplotlib | Statsmodels  |
+| Github           | Numpy      |              |
+| VS Code          | Seaborn    |              |
+| SSMS             |            |              |
+
+| Other Languages |
+| ---             |
+| HTML            |
+| CSS             |
+| Javascript      |
 
 
+    
 # About me
 
 Here are a selection of my Data Science projects.
