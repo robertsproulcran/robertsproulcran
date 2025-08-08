@@ -17,7 +17,6 @@ I have:
   - Platforms
     - Jupyter Notebook 
     - Google Colab
-    - Git
     - Github
     - Visual Studio Code
   - Other Languages
@@ -25,6 +24,15 @@ I have:
     - CSS
     - Javascript
     - C++ (Arduino)
+   
+| Platforms        | Packages   |
+| ---              | ---        |
+| Jupyter Notebook | Pandas     |
+| Google Colab     | Matplotlib |
+| Github           | Numpy      |
+| VS Code          | Seaborn    |
+| SSMS             |            |
+
 
 # About me
 
