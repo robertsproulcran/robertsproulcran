@@ -14,6 +14,7 @@ I have:
   - ML Modelling
     - SciKitLearn
     - Statsmodels
+    - SciPy
   - Platforms
     - Jupyter Notebook 
     - Google Colab
@@ -29,7 +30,7 @@ I have:
 | :---             | :---       | :---         |
 | Jupyter Notebook | Pandas     | SciKitLearn  |
 | Google Colab     | Matplotlib | Statsmodels  |
-| Github           | Numpy      |              |
+| Github           | Numpy      |          SciPy    |
 | VS Code          | Seaborn    |              |
 | SSMS             |            |              |
 
@@ -38,7 +39,7 @@ I have:
 | :---       | :---         |
 | Pandas     | SciKitLearn  |
 | Matplotlib | Statsmodels  |
-| Numpy      |              |
+| Numpy      | SciPy        |
 | Seaborn    |              |
 
 
