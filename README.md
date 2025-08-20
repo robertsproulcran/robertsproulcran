@@ -33,6 +33,15 @@ I have:
 | VS Code          | Seaborn    |              |
 | SSMS             |            |              |
 
+#### Packages
+| Dataframes | ML Modelling |
+| :---       | :---         |
+| Pandas     | SciKitLearn  |
+| Matplotlib | Statsmodels  |
+| Numpy      |              |
+| Seaborn    |              |
+
+
 | Other Languages |
 | ---             |
 | HTML            |
