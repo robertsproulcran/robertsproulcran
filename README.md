@@ -1,5 +1,5 @@
 ## Hi there 👋
-##CV
+## CV
 ### My Languages, Tools & Skills
 I have:
   - Python
